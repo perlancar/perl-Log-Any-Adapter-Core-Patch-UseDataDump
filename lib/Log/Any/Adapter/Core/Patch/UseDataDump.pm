@@ -61,4 +61,6 @@ L<Data::Dump> which has nicer output.
 
 L<Log::Any::Adapter::Core::Patch::SetDumperIndent>
 
+L<Log::Any::Adapter::Core::Patch::UseDataDumperPerltidy>
+
 =cut
